@@ -143,5 +143,3 @@ The project uses an employee performance dataset containing information such as:
 - Applying linear algebra concepts to real-world datasets.
 
 ---
-
-⭐ If you find this project useful, consider giving the repository a star!
